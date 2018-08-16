@@ -1,0 +1,9 @@
+.watchlist{
+    display: flex;  
+    flex-wrap: wrap; 
+   
+}
+
+.watchlist>* {
+    flex: 1 1 300px;
+}
