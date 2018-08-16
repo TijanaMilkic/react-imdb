@@ -1,0 +1,26 @@
+.MovieDetails {
+    background-color: rgb(241, 221, 191);
+       
+    width: 600px;
+    height: 445px;
+    margin-bottom: 5px;
+    text-align: center;
+    position:relative;
+  }
+  
+  .text{
+    padding-top: 30px; 
+    text-align: left;   
+  }
+
+  .detailPoster {
+    position:absolute;
+    bottom:0px;  
+    left:600px;
+    height: 445px;
+  
+  }
+
+  .star {
+    width: 40px;
+  }
